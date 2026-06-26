@@ -71,6 +71,8 @@
         <Button Grid.Column="4" Grid.Row="7" Content="Archived (Pass Require)"
                 Click="Button_Archived"
                 Background="#2F4F4F" FontWeight="Bold" Foreground="#FFE5E5E5"/>
+        <Label Grid.Column="1" Grid.Row="1" Content="Github"
+               FontSize="14" FontWeight="Bold" Foreground="black"/>        
 
         
         <ContentControl x:Name="MainContent"
